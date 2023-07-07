@@ -49,7 +49,7 @@ Replace [iterations] with the desired number of iterations for the simulation. I
 ## Shell Script
 The MontyHall.sh shell script automates the execution of the C++ program for multiple runs and calculates the average execution time.
 
-### Usage
+## Usage
 
 To use the shell script, run the following command:
 
